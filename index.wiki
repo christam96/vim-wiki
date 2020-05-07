@@ -1,0 +1,14 @@
+= Development =
+
+== Vim ==
+    * [[Vim-Plug]]: _Vim Plugin Manager_
+    === Plugins ===
+        * [[NerdTree]]: _Graphical file navigation_
+        * [[NerdCommeneter]]: _Simple commenting_
+        * [[VimWiki]]: _Personal wiki_
+
+== Command Line Applications ==
+   * Neomutt: _Email client_
+   * Newsboat: _RSS Feed_
+
+

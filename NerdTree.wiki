@@ -1,0 +1,2 @@
+= Frequent Commands = 
+    * <Ctrl-N> : Open NerdTree 
