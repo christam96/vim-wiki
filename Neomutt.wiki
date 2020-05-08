@@ -1,0 +1,4 @@
+=== Frequent Commands ===
+    * <Shift-B> : Toggle sidebar
+    * i,2 : Inbox 2
+    * <Shift-S> : Save changes to mailbox
