@@ -1,0 +1,3 @@
+== Frequent Commands ==
+    * Note: <Leader> is '\'
+    * <Leader>cc : Comment selected lines
