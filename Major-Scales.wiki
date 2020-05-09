@@ -1,0 +1,10 @@
+=== What is a major scale? ===
+    - W W H W W W H
+
+=== Practice techniques ===
+    - Play each mode of scale of major scale up and down, root at low and high
+    - Ex. key of C maj.
+        * C D E F G A B C B A G F E D C 
+        * D E F G A B C D C B A G F E D 
+        * ...
+        * repeat starting at higher C octave moving down and back up

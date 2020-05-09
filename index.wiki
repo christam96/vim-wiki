@@ -11,4 +11,5 @@
    * [[Neomutt]]: _Email client_
    * [[Newsboat]]: _RSS Feed_
 
-
+== Music Theory ==
+    * [[Major-Scales]]
